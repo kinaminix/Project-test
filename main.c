@@ -9,7 +9,7 @@ int main(void)
 	while (1)
 	{
 		scanf("%d", &x);
-		if (x=0)
+		if (x==0)
 			break;
 		++count;
 		sum += x;
